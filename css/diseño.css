@@ -1,0 +1,23 @@
+#a{
+    border-top: 7px solid #000; 
+    padding-top: 23px;
+}
+
+#separacion{
+    border-bottom: 7px solid #000; 
+    padding-bottom: 40px;
+}
+
+h2{
+    font-family: "Calibre",Helvetica,Arial,sans-serif;
+}
+
+h3{
+    font-family: "Arnhem",Times,Courier,serif;
+}
+
+b, a{
+    font-family: "Calibre",Helvetica,Arial,sans-serif;
+    color:red;
+    
+}
