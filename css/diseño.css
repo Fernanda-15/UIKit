@@ -12,11 +12,15 @@ h2{
     font-family: "Calibre",Helvetica,Arial,sans-serif;
 }
 
-h3{
+h3, h4{
     font-family: "Arnhem",Times,Courier,serif;
 }
 
-b, a{
+h5{
+    color: #fff;
+}
+
+b, a, p{
     font-family: "Calibre",Helvetica,Arial,sans-serif;
     color:red;
     
